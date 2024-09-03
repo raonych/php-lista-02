@@ -1,0 +1,60 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    flex-direction: column;
+    gap: 15px;
+    min-height: 100vh;       
+    margin: 0;
+    background-color: rgb(29, 28, 28);
+    color: rgb(224, 208, 177);
+}
+.nxtpage{
+    color: rgb(224, 208, 177);
+    position: absolute;
+    text-decoration: none;
+    right: 5%;
+    bottom: 2%;
+    
+}
+.nxtpage :hover{
+    transition: 300ms;
+    width: 102%;
+    height: 10%;
+    color: aliceblue;
+}     
+.linktext{
+    position: absolute;
+    text-decoration: none;
+    right: 9%;
+    bottom: 2%;
+}
+.desc{
+    text-align: justify;
+    margin-inline: 20%;
+
+}
+form{
+    margin-inline: 10%;
+}
+input{
+    padding: 5px;
+    border: none; 
+    border-radius: 6px;
+    background-color: rgb(39, 37, 37);
+    color: rgb(224, 208, 177);
+}
+.btn{
+    border: none; 
+    border-radius: 6px;
+    background-color: rgb(39, 30, 30);
+    color: rgb(224, 208, 177);
+    padding: 8px;
+    padding-inline: 15px;
+}
+.btn:hover{
+    background-color: rgb(48, 47, 47);
+    color: #fff;
+}
