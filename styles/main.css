@@ -64,7 +64,6 @@ input{
     font-size: 25px;
 }
 .homelinks :hover{
-    text-decoration: none;
     color: white;
     font-size: 27px;
 }
@@ -79,7 +78,6 @@ input{
     top: 30px;
 }
 .home :hover{
-    text-decoration: none;
     color: white;
     font-size: 27px;
 }

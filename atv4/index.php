@@ -1,6 +1,6 @@
 <?php $page = 4; include "../../php-lista-02/baseHTML/base.php"?>
 
-<h1 class="title">Atividade 2 </h1>
+<h1 class="title">Atividade 4 </h1>
 <div class="desc">Esse progama verifica se é possivel formar um triângulo com os valores fornecidos e se sim, ele informa qual triângulo é possivel formar.</div>
 
     <form action="main.php" method="post">
