@@ -1,4 +1,4 @@
-<?php $page = 3; include "../../atvds2/baseHTML/base.php";
+<?php $page = 3; include "../../php-lista-02/baseHTML/base.php";
 $n1 = $_POST["n1"];
 $n2 = $_POST["n2"];
 if ($n1 < $n2 ){
@@ -9,7 +9,7 @@ if ($n1 < $n2 ){
     echo "<p>Valores iguais</p> ";
 }
 
-include "../../atvds2/baseHTML/nxtpage.php";
+include "../../php-lista-02/baseHTML/nxtpage.php";
 
-include "../../atvds2/baseHTML/blwbody.html";
+include "../../php-lista-02/baseHTML/blwbody.html";
 ?>

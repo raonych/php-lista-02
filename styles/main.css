@@ -58,3 +58,28 @@ input{
     background-color: rgb(48, 47, 47);
     color: #fff;
 }
+.homelinks{
+    text-decoration: none;
+    color:rgb(224, 208, 177);
+    font-size: 25px;
+}
+.homelinks :hover{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+}
+
+.home{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    color:rgb(224, 208, 177);
+    font-size: 25px;
+    position: absolute;
+    left: 45px;
+    top: 30px;
+}
+.home :hover{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+}

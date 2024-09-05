@@ -1,4 +1,4 @@
-<?php $page = 1; include "../../atvds2/baseHTML/base.php"?>
+<?php $page = 1; include "../../php-lista-02/baseHTML/base.php"?>
 
 <h1 class="title">Atividade 1 </h1>
 <div class="desc">Esse progama verifica se o número fornecido é negativo, positivo ou igual a zero.</div>
@@ -10,4 +10,4 @@
     </form>
 
     
-<?php include "../../atvds2/baseHTML/blwbody.html"?>
+<?php include "../../php-lista-02/baseHTML/blwbody.html"?>

@@ -1,4 +1,4 @@
-<?php $page = 1; include "../../atvds2/baseHTML/base.php";
+<?php $page = 1; include "../../php-lista-02/baseHTML/base.php";
  
 $n = $_POST["n"];
 if ($n < 0 ){
@@ -9,7 +9,7 @@ if ($n < 0 ){
     echo "<p>Valor Positivo</p>";
 };
 
-include "../../atvds2/baseHTML/nxtpage.php";
+include "../../php-lista-02/baseHTML/nxtpage.php";
 
-include "../../atvds2/baseHTML/blwbody.html";
+include "../../php-lista-02/baseHTML/blwbody.html"
 ?>

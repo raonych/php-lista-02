@@ -1,4 +1,4 @@
-<?php $page = 3; include "../../atvds2/baseHTML/base.php"; ?>
+<?php $page = 3; include "../../php-lista-02/baseHTML/base.php"?>
 
 <h1 class="title">Atividade 3 </h1>
 <div class="desc">Esse progama verifica se o valor A é menor ou maior que o valor B.</div>
@@ -10,4 +10,4 @@
         <input type="text" name="n2">
         <input class="btn" type="submit" value="enviar"/>
     </form>
-    <?php include "../../atvds2/baseHTML/blwbody.html"?>
+    <?php include "../../php-lista-02/baseHTML/blwbody.html"?>

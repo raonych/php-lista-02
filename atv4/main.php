@@ -1,4 +1,4 @@
-<?php  $page = 4; include "../../atvds2/baseHTML/base.php";
+<?php  $page = 4; include "../../php-lista-02/baseHTML/base.php";
     $a = $_POST["a"];
     $b = $_POST["b"];
     $c = $_POST["c"];
@@ -15,8 +15,8 @@
 
     };
         
-    include "../../atvds2/baseHTML/nxtpage.php";
+    include "../../php-lista-02/baseHTML/nxtpage.php";
     
-    include "../../atvds2/baseHTML/blwbody.html";
+    include "../../php-lista-02/baseHTML/blwbody.html"
     
     ?>  
